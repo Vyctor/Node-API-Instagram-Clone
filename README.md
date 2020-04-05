@@ -1,5 +1,7 @@
 # Curso Completo do Desenvolvedor NodeJS e MongoDB
 
+![Markdown](https://cdn.worldvectorlogo.com/logos/nodejs.svg)
+
 Arquivos do [Curso Completo do Desenvolvedor NodeJS e MongoDB](https://www.udemy.com/course/curso-completo-do-desenvolvedor-nodejs/) da [Udemy](https://udemy.com).
 
 Instrutor **Jorge Sant Ana**.
