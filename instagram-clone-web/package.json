@@ -1,19 +1,19 @@
 {
-  "name": "multiroom_chat",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Jorge",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "consign": "^0.1.6",
-    "ejs": "^2.5.5",
-    "express": "^4.17.1",
-    "express-validator": "^6.4.0",
-    "lodash": ">=4.17.19"
-  }
+    "name": "instagram-clone-web",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "Vyctor Guimarães",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "consign": "^0.1.6",
+        "ejs": "^2.5.5",
+        "express": "^4.17.1",
+        "express-validator": "^6.4.0",
+        "lodash": ">=4.17.19"
+    }
 }
