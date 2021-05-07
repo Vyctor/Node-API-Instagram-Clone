@@ -40,3 +40,6 @@ O Objetivo deste projeto consiste na criação de uma **API RESTful** em conjunt
 - Aprenda a utilizar o **JavaScript** no back-end como linguagem de programação para páginas dinâmicas.
 Aprenda a utilizar o framework Express, o gerenciador de pacotes **NPM** e o engine de views **EJS**.
 - Aprenda a usar os módulos **Consign**, **Body-parser**,**Express-validator**, **Express-session**, **Crypto** e **Connect-Multiparty**.
+
+
+## Como subir o projeto
