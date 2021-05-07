@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "nodemon app.js"
+        "start": "nodemon app.js",
+        "runFirstTime": "rm -rf node_modules package-lock.json && npm i && npm run start"
     },
     "author": "Vyctor Guimarães",
     "license": "ISC",
@@ -13,7 +14,7 @@
         "consign": "^0.1.6",
         "ejs": "^2.5.5",
         "express": "^4.17.1",
-        "express-validator": "^6.4.0",
+        "express-validator": "5.3.1",
         "lodash": ">=4.17.19"
     }
 }
