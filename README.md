@@ -43,3 +43,13 @@ Aprenda a utilizar o framework Express, o gerenciador de pacotes **NPM** e o eng
 
 
 ## Como subir o projeto
+
+- Projeto Web
+  - Instalar o nodemon ```npm i -g nodemon```
+  - Na primeira execução usar comando ```npm run runFirstTime```
+  - Após a primeira execução utilizar somente ```npm run start```
+- API 
+  - Instalar o MongoDB
+    - Se preferir use o docker, para ambiente de teste utilizar o comando ```docker run -d -p 27017:27017 -p 28017:28017 -e AUTH=no tutum/mongodb```
+    - Na primeira execução usar comando ```npm run runFirstTime```
+    - Após a primeira execução utilizar somente ```npm run start```
